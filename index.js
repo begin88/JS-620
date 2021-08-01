@@ -1,1 +1,2 @@
-alert("Behen");
+//alert("Behen");
+console.log("Behen");
