@@ -47,16 +47,17 @@ console.log(isAdult);
 
 
 /* Task 6
-let user = {
-    firstName: "Igor",
-    lastName: "Behen",
-    studyGroup: 620,
-    yeurOfBirth: 1988
+let user = { 
+firstName: "Igor",
+lastName: "Behen",
+studyGroup: 620,
+let yeurOfBirth: 1988
 };
 
-let status = confirm("Are you Married?");
+/*
+let status = confirm("Are you married?");
 console.log(status);
-status = Yes;
+status = "Yes";
 console.log(status);
 */
 
