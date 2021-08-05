@@ -62,12 +62,9 @@ console.log(status);
 */
 
 /* Task 7
-let data = prompt("login");
-alert(data);
-let text = prompt("your email");
-alert(text);
-let pass = prompt("your password");
-alert(pass);
+let name = prompt("What is you name?", "Tom");
+alert(name);
+
 
 */
 
@@ -95,3 +92,17 @@ let secondsInAMonth = dayInAMonth * secondsInADay;
 alert(secondsInAMonth);
 
 */
+
+
+/* HOMETASK 2 */
+
+/*
+let x = 1;
+let y = 2;
+let res1 = (x + y) * "4";
+console.log(res1);
+console.log(typeof res1);
+*/
+
+
+
